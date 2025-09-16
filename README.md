@@ -52,3 +52,4 @@ ReportLab / WeasyPrint – PDF/HTML coverage report generation
 OS / Pathlib – File and folder management
 
 Argparse – Command-line interface for configurable options
+
