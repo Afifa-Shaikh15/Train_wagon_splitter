@@ -1,0 +1,11 @@
+{
+  "train_number": "12309",
+  "video_path": "input/train_side_view.mp4",
+  "work_dir": "output",
+  "min_coach_width_px": 150,
+  "motion_threshold": 30,
+  "projection_smooth_kernel": 15,
+  "yolo_model": null,
+  "frame_extract_rate": 1,
+  "report_thumbnail_w": 400
+}

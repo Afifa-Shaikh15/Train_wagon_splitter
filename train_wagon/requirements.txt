@@ -1,0 +1,9 @@
+opencv-python
+moviepy
+numpy
+pillow
+matplotlib
+ultralytics
+tqdm
+img2pdf
+scipy
